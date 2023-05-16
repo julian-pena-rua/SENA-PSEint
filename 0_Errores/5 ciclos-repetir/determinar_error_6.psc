@@ -1,4 +1,4 @@
-Algoritmo Determinar_Error_7_FondoAnimadoDelSena
+Algoritmo Determinar_Error_6
 	repetir
   		escribir("Mensaje de error.")
 	hasta que bandera = falso

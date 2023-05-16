@@ -1,4 +1,4 @@
-Algoritmo Determinar_Error_2
+Algoritmo Determinar_Error_7
 	Si edad >= 18 Entonces
 		Escribir "Eres mayor de edad"
 	SiNo

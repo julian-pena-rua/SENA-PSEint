@@ -1,4 +1,4 @@
-Algoritmo Determinar_Error_2
+Algoritmo Determinar_Error_1
 	segun opcion hacer
 	caso 1: 
     	escribir("Opción 1 seleccionada.")

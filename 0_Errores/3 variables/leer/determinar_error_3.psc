@@ -1,3 +1,3 @@
-Algoritmo Determinar_Error_2
+Algoritmo Determinar_Error_3
 	leer(edad);
 FinAlgoritmo

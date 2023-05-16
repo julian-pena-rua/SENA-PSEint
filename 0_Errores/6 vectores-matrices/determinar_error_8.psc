@@ -1,4 +1,4 @@
-Algoritmo Determinar_Error_2
+Algoritmo Determinar_Error_8
 	Definir vector como entero
 	vector[10] = {5, 2, 6, 1, 8, 3, 9, 7, 4, 0}
 	Para i = 0 Hasta 9 Con Paso 1 Hacer

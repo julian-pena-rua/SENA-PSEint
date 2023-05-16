@@ -1,4 +1,4 @@
-Algoritmo Determinar_Error_2
+Algoritmo Determinar_Error_6
 	si x > 0 entonces
   		escribir("x es positivo.")
 	sino si x < 0 entonces

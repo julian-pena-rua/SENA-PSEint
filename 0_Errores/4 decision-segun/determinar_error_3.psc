@@ -1,4 +1,4 @@
-Algoritmo Determinar_Error_2
+Algoritmo Determinar_Error_3
 	segun nota hacer
   	caso 1 al 5:
     	escribir("Insuficiente.")

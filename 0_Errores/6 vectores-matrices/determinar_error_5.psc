@@ -1,4 +1,4 @@
-Algoritmo Determinar_Error_2
+Algoritmo Determinar_Error_5
 	definir vector1 como entero[10]
 	para i = 0 hasta 9 hacer
   		leer(valor)

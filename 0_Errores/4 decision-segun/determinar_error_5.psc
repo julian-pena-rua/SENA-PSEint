@@ -1,4 +1,4 @@
-Algoritmo Determinar_Error_2
+Algoritmo Determinar_Error_5
 	segun letra hacer
   	caso "a":
     	escribir("La letra es a.")

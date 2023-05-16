@@ -1,4 +1,4 @@
-Algoritmo Determinar_Error_2
+Algoritmo Determinar_Error_4
 	si a > b entonces
   		escribir("a es mayor que b.")
 	sino

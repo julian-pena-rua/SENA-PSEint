@@ -1,4 +1,4 @@
-Algoritmo Determinar_Error_2
+Algoritmo Determinar_Error_1
 	mientras 
   		escribir("Ingrese un número: ")
   		leer(num)

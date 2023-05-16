@@ -1,3 +1,3 @@
-Algoritmo Determinar_Error_2
+Algoritmo Determinar_Error_5
 	leer(dato_ingresado);
 FinAlgoritmo

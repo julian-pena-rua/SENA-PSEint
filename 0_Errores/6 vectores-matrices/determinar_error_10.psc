@@ -1,4 +1,4 @@
-Algoritmo Determinar_Error_2
+Algoritmo Determinar_Error_10
 	valor = 5
 	Para i = 0 Hasta 2 Con Paso 1 Hacer
 		Para j = 0 Hasta 2 Con Paso 1 Hacer

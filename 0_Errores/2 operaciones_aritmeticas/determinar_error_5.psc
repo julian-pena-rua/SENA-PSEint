@@ -1,11 +1,10 @@
 Algoritmo Determinar_Error_5
 	// Comparar con calculadora energia potencial online
-	Escribir "*****************************************************";
-	Escribir "* Programa para detectar valor de altura            *";
-	Escribir "* según energía potencial                           *";
-	Escribir "* Escribir 3 valores (masa, gravedad, energia pote) *";
-	Escribir "* cada uno separado por tecla enter:                *";
-	Leer masa, gravedad, energiaPotencial, altura;
-	altura =  energiaPotencial / masa x gravedad;
-	Escribir "* La altura es: ", altura, "                        *";
+	Escribir "***********************************************************";
+	Escribir "* Programa para detectar valor de altura                  *";
+	Escribir "* segï¿½n energï¿½a potencial                               *";
+	Escribir "* 3 valores (masa, gravedad, energia pote) 		        *";
+	Escribir "* cada uno separado 				                        *";
+	Escribir "masa = 4, gravedad = 5, energiaPotencial = 6              *";
+	Escribir "* La altura es: ", (6 / 4 x 5) , "                        *";
 FinAlgoritmo

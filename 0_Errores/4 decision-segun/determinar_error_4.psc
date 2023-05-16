@@ -1,4 +1,4 @@
-Algoritmo Determinar_Error_2
+Algoritmo Determinar_Error_4
 	segun dia hacer
   	caso "lunes", "martes", "miércoles":
     	escribir("Es día laboral.")

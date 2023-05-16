@@ -1,4 +1,4 @@
-Algoritmo Determinar_Error_7_FondoAnimadoDelSena
+Algoritmo Determinar_Error_3
 	repetir hasta (i > 10)
   		escribir(i)
   		i = i + 1

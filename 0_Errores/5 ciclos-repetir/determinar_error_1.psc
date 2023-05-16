@@ -1,4 +1,4 @@
-Algoritmo Determinar_Error_7_FondoAnimadoDelSena
+Algoritmo Determinar_Error_1
 	repetir
   		escribir("Ingrese un número: ")
   		leer(num)
