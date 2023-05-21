@@ -24,13 +24,13 @@ Este proyecto se centra en la enseñanza de la programación utilizando el lengu
 
 1. Descarga e instala PSeInt desde [sitio web oficial](https://www.pseint.net/).
 2. Clona o descarga este repositorio en tu máquina local.
-3. Abre los archivos `.pseint` en PSeInt para acceder a los ejercicios y ejemplos.
+3. Abre los archivos `.psc` en PSeInt para acceder a los ejercicios y ejemplos.
 
 ## Ejemplos de uso
 
 Aquí tienes algunos ejemplos de cómo utilizar el lenguaje PSeInt para resolver problemas simples:
 
-- [Ejemplo 1: Suma de dos números](ejemplos/suma.pseint)
+- [Ejemplo 1: Escribir en pantalla](1-escribir-imprimir-mostrar/Escribir_SaludoParticipantes.psc)
 - [Ejemplo 2: Ciclo repetitivo](ejemplos/ciclo.pseint)
 - [Ejemplo 3: Decisión condicional](ejemplos/decision.pseint)
 

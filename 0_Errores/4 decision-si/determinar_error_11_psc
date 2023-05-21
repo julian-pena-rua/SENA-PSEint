@@ -1,4 +1,0 @@
-Algoritmo_11
-    si opcion = 1 entonces
-        escribir("Has seleccionado hamburguesa.")
-FinAlgoritmo
