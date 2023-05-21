@@ -1,8 +1,34 @@
 # PSeInt - Aprendiendo a Programar
 
+
 ![Logo del proyecto](recursos/img/LogoElPena.png)
 
-Este proyecto tiene como objetivo enseñar a programar utilizando el lenguaje PSeInt. Está dirigido a niños, adolescentes y adultos en colegios, programas técnicos y universidades.
+
+<p align="center">
+    <br>
+    <br>
+    <a href="https://julian-pena-rua.github.io/cv/" title="Backpack Logo"><img src="recursos/img/LogoElPena.png"></a>
+    <br>
+    <br>
+</p>
+
+
+<h3 align="center">Este proyecto tiene como objetivo enseñar a programar utilizando el lenguaje PSeInt. Está dirigido a niños, adolescentes y adultos en colegios, programas técnicos y universidades.</h3>
+
+
+<p align="center">
+    <br>
+    <a href="https://packagist.org/packages/backpack/crud" title="Latest Version on Packagist"><img src="https://img.shields.io/packagist/v/backpack/crud.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/backpack/crud" title="Total Downloads"><img src="https://img.shields.io/packagist/dt/backpack/crud.svg?style=flat-square"></a>
+    <a href="https://github.com/Laravel-Backpack/CRUD/commits/master" title="Last commit"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/laravel-backpack/crud"></a>
+    <a href="https://scrutinizer-ci.com/g/laravel-backpack/crud" title="Quality Score"><img src="https://img.shields.io/scrutinizer/g/laravel-backpack/crud.svg?style=flat-square"></a>
+    <a href="https://styleci.io/repos/53581270" title="Style CI"><img src="https://styleci.io/repos/53581270/shield"></a>
+    <a href="https://scrutinizer-ci.com/g/laravel-backpack/crud/code-structure" title="Coverage Status"><img src="https://raw.githubusercontent.com/laravel-backpack/CRUD/coverage-badge-dont-delete/test-coverage.svg"></a>
+    <a href="LICENSE.md" title="Software License"><img src="https://img.shields.io/github/license/laravel-backpack/crud?style=flat-square"></a>
+    <a href="https://github.com/the-whole-fruit/manifesto"><img src="https://img.shields.io/badge/writing%20standard-the%20whole%20fruit-brightgreen?style=flat-square" title="We believe writing good code is not only about writing good code. It’s also about the words around it. We aims to deliver both: code and words."></a>
+</p>
+
+
 
 ## Índice
 
