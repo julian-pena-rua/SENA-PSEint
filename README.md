@@ -3,7 +3,7 @@
 <p align="center">
     <br>
     <br>
-    <a href="https://julian-pena-rua.github.io/cv/" title="Logo del proyecto"><img src="recursos/img/LogoElPena.png"></a>
+    <a href="https://julian-pena-rua.github.io/cv/" title="Logo del proyecto"><img src="recursos/img/Logo2.png"></a>
     <br>
     <br>
 </p>

@@ -1,6 +1,36 @@
 Algoritmo DterminarError
 	definir variable_booleana como logico
 	si (variable_booleana = Verdadero) Entonces
-		Escribir "Esta línea se ejecutó"
+		Escribir "Esta lï¿½nea se ejecutï¿½"
 	FinSi
 FinAlgoritmo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// ERROR: Sintaxis incorrecta.
