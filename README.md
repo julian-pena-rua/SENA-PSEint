@@ -14,13 +14,13 @@
 
 <p align="center">
     <br>
-    <a href="https://packagist.org/packages/backpack/crud" title="Última versión"><img src="https://img.shields.io/packagist/v/backpack/crud.svg?style=flat-square"></a>
-    <a href="https://packagist.org/packages/backpack/crud" title="total descargas"><img src="https://img.shields.io/packagist/dt/backpack/crud.svg?style=flat-square"></a>
-    <a href="https://github.com/Laravel-Backpack/CRUD/commits/master" title="Últimos cambios"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/laravel-backpack/crud"></a>
-    <a href="https://scrutinizer-ci.com/g/laravel-backpack/crud" title="Puntaje Calidad"><img src="https://img.shields.io/scrutinizer/g/laravel-backpack/crud.svg?style=flat-square"></a>
-    <a href="https://styleci.io/repos/53581270" title="Style CI"><img src="https://styleci.io/repos/53581270/shield"></a>
-    <a href="https://scrutinizer-ci.com/g/laravel-backpack/crud/code-structure" title="Estado covertura"><img src="https://raw.githubusercontent.com/laravel-backpack/CRUD/coverage-badge-dont-delete/test-coverage.svg"></a>
-    <a href="LICENSE.md" title="Licencia del software"><img src="https://img.shields.io/github/license/laravel-backpack/crud?style=flat-square"></a>
+    <a href="https://github.com/julian-pena-rua/SENA-PSEint/tree/main/" title="Última versión"><img src="https://img.shields.io/badge/Versi%C3%B3n-1.2.0-green"></a>
+    <a href="https://github.com/julian-pena-rua/SENA-PSEint/tree/main/" title="total descargas"><img src="https://img.shields.io/packagist/dt/backpack/crud.svg?style=flat-square"></a>
+    <a href="https://github.com/julian-pena-rua/SENA-PSEint/commits/main" title="Últimos cambios"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/laravel-backpack/crud"></a>
+    <a href="https://github.com/julian-pena-rua/SENA-PSEint/" title="Lenguaje"><img src="https://img.shields.io/github/languages/top/julian-pena-rua/SENA-PSEint"></a>
+    <a href="https://github.com/julian-pena-rua/SENA-PSEint/" title="Visitas"><img src="https://img.shields.io/github/search/julian-pena-rua/SENA-PSEint/goto"></a>
+    <a href="https://github.com/julian-pena-rua/SENA-PSEint/" title="Tamaño proyecto"><img src="https://img.shields.io/github/repo-size/julian-pena-rua/SENA-PSEint"></a>
+    <a href="LICENSE.md" title="Licencia del software"><img src="https://img.shields.io/github/license/julian-pena-rua/SENA-PSeint"></a>
 </p>
 
 
