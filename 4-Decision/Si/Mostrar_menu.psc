@@ -1,7 +1,10 @@
 Proceso nuemroLetras
 	definir num Como Entero;
 	leer num;
-	
+	Escribir "Opción 1";
+	Escribir "Opción 2";
+	Escribir "Opción 3";
+	Escribir "Opción 4";
 	Si num==1 Entonces
 		Escribir "UNO";
 	SiNo
@@ -14,7 +17,7 @@ Proceso nuemroLetras
 				Si num == 4 Entonces
 					Escribir "cuatro";
 				SiNo
-					Escribir "no conosco el numero que digito";
+					Escribir "no conosco el numero ingresado";
 				FinSi
 			FinSi
 		FinSi

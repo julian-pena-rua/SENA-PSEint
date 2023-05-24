@@ -77,7 +77,8 @@ Siéntete libre de explorar más ejemplos en la carpeta de ejemplos del proyecto
 - `/leer`: 11 Ejercicios y ejemplos relacionados con la entrada de datos.
 - `/subalgoritmos`: 2 Ejercicios y ejemplos relacionados con el uso de subalgoritmos.
 - `/vectores y matrices`: 8 Ejercicios y ejemplos relacionados con vectores y matrices.
-- `/errores comunes`: Contiene más de 100 ejercicios cometiendo errores comunes y que se busca cómo solucionarlos.
+- `/errores`: Contiene más de 100 ejercicios cometiendo errores comunes y que se busca cómo solucionarlos.
+- `/Programa Completo`: Contiene ideas de negocio en casos reales.
 
 ## Licencia
 
