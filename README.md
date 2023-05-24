@@ -70,7 +70,7 @@ Siéntete libre de explorar más ejemplos en la carpeta de ejemplos del proyecto
 
 ## Directorio del proyecto
 
-- `/animaciones`: Contiene 4 archivos de animaciones relacionadas con la programación.
+- `/animaciones`: Contiene 4 archivos de animaciones ascii.
 - `/ciclos`: 11 Ejercicios y ejemplos relacionados con los ciclos.
 - `/decision`: 17 Ejercicios y ejemplos relacionados con las decisiones condicionales.
 - `/escribir`: 8 Ejercicios y ejemplos relacionados con la salida de datos.
