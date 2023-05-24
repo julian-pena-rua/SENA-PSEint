@@ -70,14 +70,14 @@ Siéntete libre de explorar más ejemplos en la carpeta de ejemplos del proyecto
 
 ## Directorio del proyecto
 
-- `/animaciones`: Contiene archivos de animaciones relacionadas con la programación.
-- `/ciclos`: Ejercicios y ejemplos relacionados con los ciclos.
-- `/decision`: Ejercicios y ejemplos relacionados con las decisiones condicionales.
-- `/escribir`: Ejercicios y ejemplos relacionados con la salida de datos.
-- `/leer`: Ejercicios y ejemplos relacionados con la entrada de datos.
-- `/subalgoritmos`: Ejercicios y ejemplos relacionados con el uso de subalgoritmos.
-- `/vectores y matrices`: Ejercicios y ejemplos relacionados con vectores y matrices.
-- `/errores comunes`: Contiene información sobre errores comunes y cómo solucionarlos.
+- `/animaciones`: Contiene 4 archivos de animaciones relacionadas con la programación.
+- `/ciclos`: 11 Ejercicios y ejemplos relacionados con los ciclos.
+- `/decision`: 17 Ejercicios y ejemplos relacionados con las decisiones condicionales.
+- `/escribir`: 8 Ejercicios y ejemplos relacionados con la salida de datos.
+- `/leer`: 11 Ejercicios y ejemplos relacionados con la entrada de datos.
+- `/subalgoritmos`: 2 Ejercicios y ejemplos relacionados con el uso de subalgoritmos.
+- `/vectores y matrices`: 8 Ejercicios y ejemplos relacionados con vectores y matrices.
+- `/errores comunes`: Contiene más de 100 ejercicios cometiendo errores comunes y que se busca cómo solucionarlos.
 
 ## Licencia
 
