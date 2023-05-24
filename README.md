@@ -15,7 +15,7 @@
 <p align="center">
     <br>
     <a href="https://github.com/julian-pena-rua/SENA-PSEint/tree/main/" title="Última versión"><img src="https://img.shields.io/badge/Versi%C3%B3n-1.2.0-green"></a>
-    <a href="https://github.com/julian-pena-rua/SENA-PSEint/tree/main/" title="total descargas"><img src="https://img.shields.io/github/downloads/julian-pena-rua/SENA-PSeint/total"></a>
+    <a href="https://github.com/julian-pena-rua/SENA-PSEint/tree/main/" title="total descargas"><img src="https://img.shields.io/github/downloads/julian-pena-rua/sena-pseint/total"></a>
     <a href="https://github.com/julian-pena-rua/SENA-PSEint/commits/main" title="Últimos cambios"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/laravel-backpack/crud"></a>
     <a href="https://github.com/julian-pena-rua/SENA-PSEint/" title="Lenguaje"><img src="https://img.shields.io/github/languages/top/julian-pena-rua/SENA-PSEint"></a>
     <a href="https://github.com/julian-pena-rua/SENA-PSEint/" title="Visitas"><img src="https://img.shields.io/github/search/julian-pena-rua/SENA-PSEint/goto"></a>
