@@ -9,7 +9,8 @@
 </p>
 
 
-<h3 align="center">Este proyecto tiene como objetivo enseñar a programar utilizando el lenguaje PSeInt. Está dirigido a niños, adolescentes y adultos en colegios, programas técnicos y universidades.</h3>
+<h3 align="center">Este proyecto tiene como objetivo enseñar a programar utilizando el lenguaje PSeInt. 
+Está dirigido a niños, adolescentes y adultos en colegios, programas técnicos y universidades.</h3>
 
 
 <p align="center">
@@ -52,8 +53,9 @@ Este proyecto se centra en la enseñanza de la programación utilizando el lengu
 Aquí tienes algunos ejemplos de cómo utilizar el lenguaje PSeInt para resolver problemas simples:
 
 - [Ejemplo 1: Escribir en pantalla](1-escribir-imprimir-mostrar/Escribir_SaludoParticipantes.psc)
-- [Ejemplo 2: Ciclo repetitivo](ejemplos/ciclo.pseint)
-- [Ejemplo 3: Decisión condicional](ejemplos/decision.pseint)
+- [Ejemplo 2: Decisión condicional](4-decision/Si/Comparar_dos_numeros.psc)
+- [Ejemplo 3: Ciclo repetitivo](5-ciclos/Mientras_Menu.psc)
+
 
 Siéntete libre de explorar más ejemplos en la carpeta de ejemplos del proyecto.
 
@@ -70,19 +72,20 @@ Siéntete libre de explorar más ejemplos en la carpeta de ejemplos del proyecto
 
 ## Directorio del proyecto
 
-- `/animaciones`: Contiene 4 archivos de animaciones ascii.
-- `/ciclos`: 11 Ejercicios y ejemplos relacionados con los ciclos.
-- `/decision`: 17 Ejercicios y ejemplos relacionados con las decisiones condicionales.
-- `/escribir`: 8 Ejercicios y ejemplos relacionados con la salida de datos.
-- `/leer`: 11 Ejercicios y ejemplos relacionados con la entrada de datos.
-- `/subalgoritmos`: 2 Ejercicios y ejemplos relacionados con el uso de subalgoritmos.
-- `/vectores y matrices`: 8 Ejercicios y ejemplos relacionados con vectores y matrices.
-- `/errores`: Contiene más de 100 ejercicios cometiendo errores comunes y que se busca cómo solucionarlos.
-- `/Programa Completo`: Contiene ideas de negocio en casos reales.
+- `/escribir`:              7 Ejercicios y ejemplos relacionados con la salida de datos.
+- `/variables`:             19 Ejercicios y ejemplos relacionados con la salida de datos.
+- `/leer`:                  13 Ejercicios y ejemplos relacionados con la entrada de datos.
+- `/decision`:              27 Ejercicios y ejemplos relacionados con las decisiones condicionales.
+- `/ciclos`:                31 Ejercicios y ejemplos relacionados con los ciclos.
+- `/vectores y matrices`:   12 Ejercicios y ejemplos relacionados con vectores y matrices.
+- `/animaciones`:           6 archivos de animaciones ascii.
+- `/subalgoritmos`:         2 Ejercicios y ejemplos relacionados con el uso de subalgoritmos.
+- `/errores`:               Contiene más de 100 ejercicios cometiendo errores comunes y que se busca cómo solucionarlos.
+- `/Programa Completo`:     Contiene ideas de negocio en casos reales.
 
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia copyleft. Puedes consultar los detalles en el archivo [LICENSE](LICENSE).
+Este proyecto se distribuye bajo la licencia Creative Commons. Puedes consultar los detalles en el archivo [LICENSE](LICENSE).
 
 ## Autor
 
@@ -94,6 +97,7 @@ Este proyecto se distribuye bajo la licencia copyleft. Puedes consultar los deta
 
 - Agradecimiento 1: Desarrolladores que contribuyeron al proyecto inicial.
 - Agradecimiento 2: Personas o proyectos que brindaron inspiración y recursos.
+- Agradecimiento 3: Desarrolladores y colaboradores que continuan contribuyendo al proyecto.
 
 ## Enlaces útiles
 
