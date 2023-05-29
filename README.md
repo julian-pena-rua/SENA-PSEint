@@ -83,6 +83,8 @@ Siéntete libre de explorar más ejemplos en la carpeta de ejemplos del proyecto
 - `/errores`:               Contiene más de 100 ejercicios cometiendo errores comunes y que se busca cómo solucionarlos.
 - `/Programa Completo`:     Contiene ideas de negocio en casos reales.
 
+# Curso
+
 ## Día 1: Introducción a la programación y PSeint
 
 ### Paso 1: Breve introducción a la programación y su importancia
